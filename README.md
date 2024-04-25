@@ -1,2 +1,3 @@
-# AiBuddy-Student-Automatic-Project-Monitoring-and-Reporting-System
+# AiBuddy
 Student Automatic Project Monitoring and Reporting System using AI
+
